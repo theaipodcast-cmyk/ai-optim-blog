@@ -2,3 +2,13 @@ title: AI Optimism Daily
 description: A daily digest of the most encouraging AI developments
 theme: minima
 permalink: /:year/:month/:day/:title
+
+# Hide other pages by making them non-existent in navigation
+exclude:
+  - CLAUDE.md
+  - init.md
+  - .claude/agents/initializer.md
+  - .claude/agents/scraper.md
+  - .claude/agents/writer.md
+  - .claude/agents/publisher.md
+  - .claude/commands/daily.md

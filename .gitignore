@@ -4,3 +4,5 @@ __pycache__/
 staging_context.txt
 .DS_Store
 logs/*.log
+id_ed25519
+id_ed25519.pub
