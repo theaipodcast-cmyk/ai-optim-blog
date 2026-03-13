@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+staging_context.txt
+.DS_Store
+logs/*.log
